@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @duffydu
 - 🌱 I’m currently a UBC computer science student. 
 - 💞️ I’m looking to collaborate on projects that are web-based applications.
-- 👀  I like to longboard and dance during my free time.
-- 📫 You can reach me at dufei353194284@gmail.com
+- 👀 I like to longboard and dance during my free time.
 
 <!---
 duffydu/duffydu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
