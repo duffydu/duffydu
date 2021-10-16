@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Duffy.
 - 🌱 I’m currently a UBC computer science student. 
-- 💞️ I’m looking to collaborate on projects that are web-based applications.
+- 💞️ I’m looking to collaborate on projects involving web-based applications.
 - 👀 I like to longboard and dance during my free time.
 
 <!---
